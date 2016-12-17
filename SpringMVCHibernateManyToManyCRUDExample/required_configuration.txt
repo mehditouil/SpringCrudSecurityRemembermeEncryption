@@ -1,0 +1,6 @@
+right click on the project and choose properties
+click on Deployment Assembly
+click add
+click on Java Build path Entries
+Select Maven Dependencies
+click Finish
